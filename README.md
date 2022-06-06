@@ -1,2 +1,2 @@
 # SimpelStopWatch
-StopWatch in Milliseconds, with function Start, Stop, Tap,C lear, and ClearTap
+StopWatch in Milliseconds, with function Start, Stop, Tap,Clear, and ClearTap
